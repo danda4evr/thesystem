@@ -1,239 +1,259 @@
 Game ID,Sport,Commence Time (UTC),Away Team,Home Team,Market,Bookmaker,Selection,Odds (American),Last Refreshed (UTC)
-20261101-CB-PS,americanfootball_nfl,2026-11-01T18:02:23Z,Cleveland Browns,Pittsburgh Steelers,h2h,FanDuel,Cleveland Browns,3000,2026-11-01T20:10:07+00:00
-20261101-CB-PS,americanfootball_nfl,2026-11-01T18:02:23Z,Cleveland Browns,Pittsburgh Steelers,h2h,FanDuel,Pittsburgh Steelers,-50000,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,DraftKings,Detroit Lions,-371,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,DraftKings,Minnesota Vikings,261,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,FanDuel,Detroit Lions,-400,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,FanDuel,Minnesota Vikings,285,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,BetRivers,Detroit Lions,-420,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,BetRivers,Minnesota Vikings,300,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,MyBookie.ag,Detroit Lions,-105,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,MyBookie.ag,Minnesota Vikings,-133,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,Bovada,Detroit Lions,-145,2026-11-01T20:10:07+00:00
-20261101-MV-DL,americanfootball_nfl,2026-11-01T18:02:36Z,Minnesota Vikings,Detroit Lions,h2h,Bovada,Minnesota Vikings,110,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,DraftKings,Cincinnati Bengals,-565,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,DraftKings,Tennessee Titans,371,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,FanDuel,Cincinnati Bengals,-520,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,FanDuel,Tennessee Titans,350,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,BetRivers,Cincinnati Bengals,-560,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,BetRivers,Tennessee Titans,330,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,BetMGM,Cincinnati Bengals,-550,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,BetMGM,Tennessee Titans,375,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,MyBookie.ag,Cincinnati Bengals,-2500,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,MyBookie.ag,Tennessee Titans,725,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,Bovada,Cincinnati Bengals,-1400,2026-11-01T20:10:07+00:00
-20261101-TT-CB,americanfootball_nfl,2026-11-01T18:02:38Z,Tennessee Titans,Cincinnati Bengals,h2h,Bovada,Tennessee Titans,700,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,DraftKings,Arizona Cardinals,1860,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,DraftKings,Dallas Cowboys,-10000,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,FanDuel,Arizona Cardinals,1200,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,FanDuel,Dallas Cowboys,-4500,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,BetMGM,Arizona Cardinals,1450,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,BetMGM,Dallas Cowboys,-5000,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,Bovada,Arizona Cardinals,1400,2026-11-01T20:10:07+00:00
-20261101-AC-DC,americanfootball_nfl,2026-11-01T18:02:39Z,Arizona Cardinals,Dallas Cowboys,h2h,Bovada,Dallas Cowboys,-5000,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,DraftKings,Baltimore Ravens,610,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,DraftKings,Buffalo Bills,-1120,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,FanDuel,Baltimore Ravens,680,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,FanDuel,Buffalo Bills,-1400,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,BetRivers,Baltimore Ravens,700,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,BetRivers,Buffalo Bills,-1430,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,BetMGM,Baltimore Ravens,650,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,BetMGM,Buffalo Bills,-1000,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,MyBookie.ag,Baltimore Ravens,475,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,MyBookie.ag,Buffalo Bills,-1000,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,Bovada,Baltimore Ravens,500,2026-11-01T20:10:07+00:00
-20261101-BR-BB,americanfootball_nfl,2026-11-01T18:02:42Z,Baltimore Ravens,Buffalo Bills,h2h,Bovada,Buffalo Bills,-900,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,DraftKings,Atlanta Falcons,1800,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,DraftKings,Tampa Bay Buccaneers,-10000,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,FanDuel,Atlanta Falcons,1300,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,FanDuel,Tampa Bay Buccaneers,-5000,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,BetMGM,Atlanta Falcons,1700,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,BetMGM,Tampa Bay Buccaneers,-5000,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,Bovada,Atlanta Falcons,1200,2026-11-01T20:10:07+00:00
-20261101-AF-TBB,americanfootball_nfl,2026-11-01T18:02:53Z,Atlanta Falcons,Tampa Bay Buccaneers,h2h,Bovada,Tampa Bay Buccaneers,-3300,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,DraftKings,Las Vegas Raiders,119,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,DraftKings,New York Jets,-157,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,FanDuel,Las Vegas Raiders,118,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,FanDuel,New York Jets,-150,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,BetRivers,Las Vegas Raiders,133,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,BetRivers,New York Jets,-175,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,BetMGM,Las Vegas Raiders,110,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,BetMGM,New York Jets,-130,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,MyBookie.ag,Las Vegas Raiders,150,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,MyBookie.ag,New York Jets,-222,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,Bovada,Las Vegas Raiders,145,2026-11-01T20:10:07+00:00
-20261101-LVR-NYJ,americanfootball_nfl,2026-11-01T18:02:53Z,Las Vegas Raiders,New York Jets,h2h,Bovada,New York Jets,-190,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,DraftKings,Los Angeles Chargers,235,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,DraftKings,Los Angeles Rams,-290,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetUS,Los Angeles Chargers,253,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetUS,Los Angeles Rams,-305,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,FanDuel,Los Angeles Chargers,235,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,FanDuel,Los Angeles Rams,-290,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetRivers,Los Angeles Chargers,235,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetRivers,Los Angeles Rams,-305,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,LowVig.ag,Los Angeles Chargers,256,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,LowVig.ag,Los Angeles Rams,-315,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetOnline.ag,Los Angeles Chargers,256,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetOnline.ag,Los Angeles Rams,-315,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,MyBookie.ag,Los Angeles Chargers,255,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,MyBookie.ag,Los Angeles Rams,-318,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetMGM,Los Angeles Chargers,240,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,BetMGM,Los Angeles Rams,-300,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,Bovada,Los Angeles Chargers,250,2026-11-01T20:10:07+00:00
-20261101-LAC-LAR,americanfootball_nfl,2026-11-01T21:05:00Z,Los Angeles Chargers,Los Angeles Rams,h2h,Bovada,Los Angeles Rams,-300,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,DraftKings,Denver Broncos,-108,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,DraftKings,Kansas City Chiefs,-112,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,FanDuel,Denver Broncos,-104,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,FanDuel,Kansas City Chiefs,-112,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,BetRivers,Denver Broncos,-103,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,BetRivers,Kansas City Chiefs,-118,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,MyBookie.ag,Denver Broncos,-115,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,MyBookie.ag,Kansas City Chiefs,-102,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,BetMGM,Denver Broncos,-105,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,BetMGM,Kansas City Chiefs,-112,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,Bovada,Denver Broncos,-108,2026-11-01T20:10:07+00:00
-20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:00Z,Kansas City Chiefs,Denver Broncos,h2h,Bovada,Kansas City Chiefs,-112,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,DraftKings,Miami Dolphins,275,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,DraftKings,New England Patriots,-345,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetUS,Miami Dolphins,275,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetUS,New England Patriots,-340,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,FanDuel,Miami Dolphins,295,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,FanDuel,New England Patriots,-370,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetRivers,Miami Dolphins,275,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetRivers,New England Patriots,-375,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,LowVig.ag,Miami Dolphins,274,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,LowVig.ag,New England Patriots,-340,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetOnline.ag,Miami Dolphins,274,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetOnline.ag,New England Patriots,-340,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetMGM,Miami Dolphins,280,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,BetMGM,New England Patriots,-350,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,MyBookie.ag,Miami Dolphins,303,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,MyBookie.ag,New England Patriots,-377,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,Bovada,Miami Dolphins,290,2026-11-01T20:10:07+00:00
-20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:00Z,New England Patriots,Miami Dolphins,h2h,Bovada,New England Patriots,-370,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,DraftKings,Philadelphia Eagles,220,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,DraftKings,Washington Commanders,-270,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetUS,Philadelphia Eagles,210,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetUS,Washington Commanders,-250,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,FanDuel,Philadelphia Eagles,220,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,FanDuel,Washington Commanders,-270,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetRivers,Philadelphia Eagles,200,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetRivers,Washington Commanders,-250,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,LowVig.ag,Philadelphia Eagles,207,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,LowVig.ag,Washington Commanders,-250,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetOnline.ag,Philadelphia Eagles,207,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetOnline.ag,Washington Commanders,-250,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,MyBookie.ag,Philadelphia Eagles,214,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,MyBookie.ag,Washington Commanders,-260,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetMGM,Philadelphia Eagles,210,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetMGM,Washington Commanders,-250,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,Bovada,Philadelphia Eagles,210,2026-11-01T20:10:07+00:00
-20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,Bovada,Washington Commanders,-250,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,DraftKings,Chicago Bears,140,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,DraftKings,Seattle Seahawks,-166,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,FanDuel,Chicago Bears,146,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,FanDuel,Seattle Seahawks,-174,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetRivers,Chicago Bears,140,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetRivers,Seattle Seahawks,-175,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,LowVig.ag,Chicago Bears,148,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,LowVig.ag,Seattle Seahawks,-168,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetOnline.ag,Chicago Bears,148,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetOnline.ag,Seattle Seahawks,-168,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetUS,Chicago Bears,146,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetUS,Seattle Seahawks,-170,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,MyBookie.ag,Chicago Bears,141,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,MyBookie.ag,Seattle Seahawks,-174,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetMGM,Chicago Bears,150,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetMGM,Seattle Seahawks,-175,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,Bovada,Chicago Bears,143,2026-11-01T20:10:07+00:00
-20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,Bovada,Seattle Seahawks,-168,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,DraftKings,Boston Celtics,-298,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,DraftKings,Orlando Magic,240,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,MyBookie.ag,Boston Celtics,-295,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,MyBookie.ag,Orlando Magic,220,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetOnline.ag,Boston Celtics,-290,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetOnline.ag,Orlando Magic,237,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,LowVig.ag,Boston Celtics,-287,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,LowVig.ag,Orlando Magic,241,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetMGM,Boston Celtics,-300,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetMGM,Orlando Magic,240,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetUS,Boston Celtics,-290,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetUS,Orlando Magic,240,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,Bovada,Boston Celtics,-280,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,Bovada,Orlando Magic,230,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,FanDuel,Boston Celtics,-300,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,FanDuel,Orlando Magic,245,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetRivers,Boston Celtics,-315,2026-11-01T20:10:07+00:00
-20261101-BC-OM,basketball_nba,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,h2h,BetRivers,Orlando Magic,245,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,DraftKings,Brooklyn Nets,142,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,DraftKings,Indiana Pacers,-170,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetMGM,Brooklyn Nets,140,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetMGM,Indiana Pacers,-170,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetUS,Brooklyn Nets,146,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetUS,Indiana Pacers,-170,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,LowVig.ag,Brooklyn Nets,146,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,LowVig.ag,Indiana Pacers,-165,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetOnline.ag,Brooklyn Nets,145,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetOnline.ag,Indiana Pacers,-165,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,Bovada,Brooklyn Nets,150,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,Bovada,Indiana Pacers,-175,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,MyBookie.ag,Brooklyn Nets,134,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,MyBookie.ag,Indiana Pacers,-172,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetRivers,Brooklyn Nets,143,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,BetRivers,Indiana Pacers,-175,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,FanDuel,Brooklyn Nets,142,2026-11-01T20:10:07+00:00
-20261101-BN-IP,basketball_nba,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,h2h,FanDuel,Indiana Pacers,-168,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,FanDuel,Golden State Warriors,-130,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,FanDuel,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,DraftKings,Golden State Warriors,-130,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,DraftKings,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,MyBookie.ag,Golden State Warriors,-135,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,MyBookie.ag,Los Angeles Clippers,106,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetRivers,Golden State Warriors,-132,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetRivers,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetOnline.ag,Golden State Warriors,-130,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetOnline.ag,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,LowVig.ag,Golden State Warriors,-128,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,LowVig.ag,Los Angeles Clippers,112,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetMGM,Golden State Warriors,-135,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetMGM,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,Bovada,Golden State Warriors,-130,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,Bovada,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetUS,Golden State Warriors,-130,2026-11-01T20:10:07+00:00
-20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetUS,Los Angeles Clippers,110,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,DraftKings,Los Angeles Lakers,-148,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,DraftKings,Toronto Raptors,124,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,LowVig.ag,Los Angeles Lakers,-144,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,LowVig.ag,Toronto Raptors,127,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,Bovada,Los Angeles Lakers,-150,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,Bovada,Toronto Raptors,130,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetMGM,Los Angeles Lakers,-155,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetMGM,Toronto Raptors,125,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetOnline.ag,Los Angeles Lakers,-145,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetOnline.ag,Toronto Raptors,125,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,MyBookie.ag,Los Angeles Lakers,-156,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,MyBookie.ag,Toronto Raptors,122,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetUS,Los Angeles Lakers,-145,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetUS,Toronto Raptors,125,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,FanDuel,Los Angeles Lakers,-144,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,FanDuel,Toronto Raptors,122,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetRivers,Los Angeles Lakers,-155,2026-11-01T20:10:07+00:00
-20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetRivers,Toronto Raptors,128,2026-11-01T20:10:07+00:00
-20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,BetRivers,New York Knicks,-110,2026-11-01T20:10:07+00:00
-20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,BetRivers,San Antonio Spurs,-110,2026-11-01T20:10:07+00:00
-20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,DraftKings,New York Knicks,-105,2026-11-01T20:10:07+00:00
-20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,DraftKings,San Antonio Spurs,-115,2026-11-01T20:10:07+00:00
-20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,BetRivers,Boston Celtics,-190,2026-11-01T20:10:07+00:00
-20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,BetRivers,Miami Heat,155,2026-11-01T20:10:07+00:00
-20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,DraftKings,Boston Celtics,-218,2026-11-01T20:10:07+00:00
-20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,DraftKings,Miami Heat,180,2026-11-01T20:10:07+00:00
-20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,BetRivers,Los Angeles Lakers,-115,2026-11-01T20:10:07+00:00
-20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,BetRivers,Philadelphia 76ers,-105,2026-11-01T20:10:07+00:00
-20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,DraftKings,Los Angeles Lakers,-115,2026-11-01T20:10:07+00:00
-20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,DraftKings,Philadelphia 76ers,-105,2026-11-01T20:10:07+00:00
-20261226-OCT-MT,basketball_nba,2026-12-26T01:10:00Z,Oklahoma City Thunder,Minnesota Timberwolves,h2h,DraftKings,Minnesota Timberwolves,130,2026-11-01T20:10:07+00:00
-20261226-OCT-MT,basketball_nba,2026-12-26T01:10:00Z,Oklahoma City Thunder,Minnesota Timberwolves,h2h,DraftKings,Oklahoma City Thunder,-155,2026-11-01T20:10:07+00:00
-20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,BetRivers,Denver Nuggets,-127,2026-11-01T20:10:07+00:00
-20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,BetRivers,Golden State Warriors,105,2026-11-01T20:10:07+00:00
-20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,DraftKings,Denver Nuggets,-135,2026-11-01T20:10:07+00:00
-20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,DraftKings,Golden State Warriors,114,2026-11-01T20:10:07+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,DraftKings,Denver Broncos,593,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,DraftKings,Kansas City Chiefs,-1060,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,FanDuel,Denver Broncos,680,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,FanDuel,Kansas City Chiefs,-1400,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,BetRivers,Denver Broncos,600,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,BetRivers,Kansas City Chiefs,-1115,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,MyBookie.ag,Denver Broncos,425,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,MyBookie.ag,Kansas City Chiefs,-833,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,BetMGM,Denver Broncos,625,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,BetMGM,Kansas City Chiefs,-1000,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,Bovada,Denver Broncos,550,2026-11-01T23:44:55+00:00
+20261101-KCC-DB,americanfootball_nfl,2026-11-01T21:25:29Z,Kansas City Chiefs,Denver Broncos,h2h,Bovada,Kansas City Chiefs,-1000,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,DraftKings,Miami Dolphins,554,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,DraftKings,New England Patriots,-960,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,FanDuel,Miami Dolphins,520,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,FanDuel,New England Patriots,-900,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,BetRivers,Miami Dolphins,525,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,BetRivers,New England Patriots,-910,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,BetMGM,Miami Dolphins,575,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,BetMGM,New England Patriots,-900,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,MyBookie.ag,Miami Dolphins,400,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,MyBookie.ag,New England Patriots,-714,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,Bovada,Miami Dolphins,400,2026-11-01T23:44:55+00:00
+20261101-NEP-MD,americanfootball_nfl,2026-11-01T21:25:39Z,New England Patriots,Miami Dolphins,h2h,Bovada,New England Patriots,-650,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,DraftKings,Philadelphia Eagles,225,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,DraftKings,Washington Commanders,-278,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetUS,Philadelphia Eagles,205,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetUS,Washington Commanders,-245,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,FanDuel,Philadelphia Eagles,215,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,FanDuel,Washington Commanders,-260,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetRivers,Philadelphia Eagles,210,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetRivers,Washington Commanders,-265,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,LowVig.ag,Philadelphia Eagles,212,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,LowVig.ag,Washington Commanders,-257,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetOnline.ag,Philadelphia Eagles,212,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetOnline.ag,Washington Commanders,-257,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,MyBookie.ag,Philadelphia Eagles,210,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,MyBookie.ag,Washington Commanders,-259,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetMGM,Philadelphia Eagles,220,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,BetMGM,Washington Commanders,-275,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,Bovada,Philadelphia Eagles,210,2026-11-01T23:44:55+00:00
+20261102-PE-WC,americanfootball_nfl,2026-11-02T01:20:00Z,Philadelphia Eagles,Washington Commanders,h2h,Bovada,Washington Commanders,-250,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,DraftKings,Chicago Bears,140,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,DraftKings,Seattle Seahawks,-166,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,FanDuel,Chicago Bears,146,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,FanDuel,Seattle Seahawks,-174,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetRivers,Chicago Bears,140,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetRivers,Seattle Seahawks,-175,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,LowVig.ag,Chicago Bears,148,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,LowVig.ag,Seattle Seahawks,-168,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetOnline.ag,Chicago Bears,148,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetOnline.ag,Seattle Seahawks,-168,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetUS,Chicago Bears,146,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetUS,Seattle Seahawks,-170,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,MyBookie.ag,Chicago Bears,141,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,MyBookie.ag,Seattle Seahawks,-174,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetMGM,Chicago Bears,145,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,BetMGM,Seattle Seahawks,-175,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,Bovada,Chicago Bears,140,2026-11-01T23:44:55+00:00
+20261103-CB-SS,americanfootball_nfl,2026-11-03T01:20:00Z,Chicago Bears,Seattle Seahawks,h2h,Bovada,Seattle Seahawks,-165,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,DraftKings,Baltimore Ravens,295,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,DraftKings,Jacksonville Jaguars,-375,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,FanDuel,Baltimore Ravens,300,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,FanDuel,Jacksonville Jaguars,-375,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,BetRivers,Baltimore Ravens,290,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,BetRivers,Jacksonville Jaguars,-375,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,BetMGM,Baltimore Ravens,300,2026-11-01T23:44:55+00:00
+20261106-JJ-BR,americanfootball_nfl,2026-11-06T01:15:00Z,Jacksonville Jaguars,Baltimore Ravens,h2h,BetMGM,Jacksonville Jaguars,-375,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,DraftKings,Atlanta Falcons,140,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,DraftKings,Cincinnati Bengals,-166,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,FanDuel,Atlanta Falcons,154,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,FanDuel,Cincinnati Bengals,-184,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,BetMGM,Atlanta Falcons,155,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,BetMGM,Cincinnati Bengals,-190,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,BetRivers,Atlanta Falcons,155,2026-11-01T23:44:55+00:00
+20261108-CB-AF,americanfootball_nfl,2026-11-08T14:30:00Z,Cincinnati Bengals,Atlanta Falcons,h2h,BetRivers,Cincinnati Bengals,-190,2026-11-01T23:44:55+00:00
+20261108-DB-CP,americanfootball_nfl,2026-11-08T18:00:00Z,Denver Broncos,Carolina Panthers,h2h,DraftKings,Carolina Panthers,120,2026-11-01T23:44:55+00:00
+20261108-DB-CP,americanfootball_nfl,2026-11-08T18:00:00Z,Denver Broncos,Carolina Panthers,h2h,DraftKings,Denver Broncos,-142,2026-11-01T23:44:55+00:00
+20261108-DB-CP,americanfootball_nfl,2026-11-08T18:00:00Z,Denver Broncos,Carolina Panthers,h2h,FanDuel,Carolina Panthers,122,2026-11-01T23:44:55+00:00
+20261108-DB-CP,americanfootball_nfl,2026-11-08T18:00:00Z,Denver Broncos,Carolina Panthers,h2h,FanDuel,Denver Broncos,-144,2026-11-01T23:44:55+00:00
+20261108-DB-CP,americanfootball_nfl,2026-11-08T18:00:00Z,Denver Broncos,Carolina Panthers,h2h,BetRivers,Carolina Panthers,125,2026-11-01T23:44:55+00:00
+20261108-DB-CP,americanfootball_nfl,2026-11-08T18:00:00Z,Denver Broncos,Carolina Panthers,h2h,BetRivers,Denver Broncos,-152,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,DraftKings,Cleveland Browns,120,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,DraftKings,New Orleans Saints,-142,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,FanDuel,Cleveland Browns,126,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,FanDuel,New Orleans Saints,-148,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,BetRivers,Cleveland Browns,112,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,BetRivers,New Orleans Saints,-143,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,BetMGM,Cleveland Browns,120,2026-11-01T23:44:55+00:00
+20261108-CB-NOS,americanfootball_nfl,2026-11-08T18:00:00Z,Cleveland Browns,New Orleans Saints,h2h,BetMGM,New Orleans Saints,-145,2026-11-01T23:44:55+00:00
+20261108-DC-IC,americanfootball_nfl,2026-11-08T18:00:00Z,Dallas Cowboys,Indianapolis Colts,h2h,DraftKings,Dallas Cowboys,-250,2026-11-01T23:44:55+00:00
+20261108-DC-IC,americanfootball_nfl,2026-11-08T18:00:00Z,Dallas Cowboys,Indianapolis Colts,h2h,DraftKings,Indianapolis Colts,205,2026-11-01T23:44:55+00:00
+20261108-DC-IC,americanfootball_nfl,2026-11-08T18:00:00Z,Dallas Cowboys,Indianapolis Colts,h2h,FanDuel,Dallas Cowboys,-270,2026-11-01T23:44:55+00:00
+20261108-DC-IC,americanfootball_nfl,2026-11-08T18:00:00Z,Dallas Cowboys,Indianapolis Colts,h2h,FanDuel,Indianapolis Colts,220,2026-11-01T23:44:55+00:00
+20261108-DC-IC,americanfootball_nfl,2026-11-08T18:00:00Z,Dallas Cowboys,Indianapolis Colts,h2h,BetRivers,Dallas Cowboys,-278,2026-11-01T23:44:55+00:00
+20261108-DC-IC,americanfootball_nfl,2026-11-08T18:00:00Z,Dallas Cowboys,Indianapolis Colts,h2h,BetRivers,Indianapolis Colts,225,2026-11-01T23:44:55+00:00
+20261108-DL-MD,americanfootball_nfl,2026-11-08T18:00:00Z,Detroit Lions,Miami Dolphins,h2h,DraftKings,Detroit Lions,-345,2026-11-01T23:44:55+00:00
+20261108-DL-MD,americanfootball_nfl,2026-11-08T18:00:00Z,Detroit Lions,Miami Dolphins,h2h,DraftKings,Miami Dolphins,275,2026-11-01T23:44:55+00:00
+20261108-DL-MD,americanfootball_nfl,2026-11-08T18:00:00Z,Detroit Lions,Miami Dolphins,h2h,FanDuel,Detroit Lions,-390,2026-11-01T23:44:55+00:00
+20261108-DL-MD,americanfootball_nfl,2026-11-08T18:00:00Z,Detroit Lions,Miami Dolphins,h2h,FanDuel,Miami Dolphins,310,2026-11-01T23:44:55+00:00
+20261108-DL-MD,americanfootball_nfl,2026-11-08T18:00:00Z,Detroit Lions,Miami Dolphins,h2h,BetRivers,Detroit Lions,-480,2026-11-01T23:44:55+00:00
+20261108-DL-MD,americanfootball_nfl,2026-11-08T18:00:00Z,Detroit Lions,Miami Dolphins,h2h,BetRivers,Miami Dolphins,350,2026-11-01T23:44:55+00:00
+20261108-NYJ-KCC,americanfootball_nfl,2026-11-08T18:00:00Z,New York Jets,Kansas City Chiefs,h2h,DraftKings,Kansas City Chiefs,-535,2026-11-01T23:44:55+00:00
+20261108-NYJ-KCC,americanfootball_nfl,2026-11-08T18:00:00Z,New York Jets,Kansas City Chiefs,h2h,DraftKings,New York Jets,400,2026-11-01T23:44:55+00:00
+20261108-NYJ-KCC,americanfootball_nfl,2026-11-08T18:00:00Z,New York Jets,Kansas City Chiefs,h2h,FanDuel,Kansas City Chiefs,-590,2026-11-01T23:44:55+00:00
+20261108-NYJ-KCC,americanfootball_nfl,2026-11-08T18:00:00Z,New York Jets,Kansas City Chiefs,h2h,FanDuel,New York Jets,440,2026-11-01T23:44:55+00:00
+20261108-NYJ-KCC,americanfootball_nfl,2026-11-08T18:00:00Z,New York Jets,Kansas City Chiefs,h2h,BetRivers,Kansas City Chiefs,-625,2026-11-01T23:44:55+00:00
+20261108-NYJ-KCC,americanfootball_nfl,2026-11-08T18:00:00Z,New York Jets,Kansas City Chiefs,h2h,BetRivers,New York Jets,450,2026-11-01T23:44:55+00:00
+20261108-LAR-WC,americanfootball_nfl,2026-11-08T18:00:00Z,Los Angeles Rams,Washington Commanders,h2h,DraftKings,Los Angeles Rams,-225,2026-11-01T23:44:55+00:00
+20261108-LAR-WC,americanfootball_nfl,2026-11-08T18:00:00Z,Los Angeles Rams,Washington Commanders,h2h,DraftKings,Washington Commanders,185,2026-11-01T23:44:55+00:00
+20261108-LAR-WC,americanfootball_nfl,2026-11-08T18:00:00Z,Los Angeles Rams,Washington Commanders,h2h,FanDuel,Los Angeles Rams,-255,2026-11-01T23:44:55+00:00
+20261108-LAR-WC,americanfootball_nfl,2026-11-08T18:00:00Z,Los Angeles Rams,Washington Commanders,h2h,FanDuel,Washington Commanders,215,2026-11-01T23:44:55+00:00
+20261108-LAR-WC,americanfootball_nfl,2026-11-08T18:00:00Z,Los Angeles Rams,Washington Commanders,h2h,BetRivers,Los Angeles Rams,-240,2026-11-01T23:44:55+00:00
+20261108-LAR-WC,americanfootball_nfl,2026-11-08T18:00:00Z,Los Angeles Rams,Washington Commanders,h2h,BetRivers,Washington Commanders,190,2026-11-01T23:44:55+00:00
+20261108-NYG-PE,americanfootball_nfl,2026-11-08T18:00:00Z,New York Giants,Philadelphia Eagles,h2h,DraftKings,New York Giants,-135,2026-11-01T23:44:55+00:00
+20261108-NYG-PE,americanfootball_nfl,2026-11-08T18:00:00Z,New York Giants,Philadelphia Eagles,h2h,DraftKings,Philadelphia Eagles,114,2026-11-01T23:44:55+00:00
+20261108-NYG-PE,americanfootball_nfl,2026-11-08T18:00:00Z,New York Giants,Philadelphia Eagles,h2h,FanDuel,New York Giants,-136,2026-11-01T23:44:55+00:00
+20261108-NYG-PE,americanfootball_nfl,2026-11-08T18:00:00Z,New York Giants,Philadelphia Eagles,h2h,FanDuel,Philadelphia Eagles,116,2026-11-01T23:44:55+00:00
+20261108-NYG-PE,americanfootball_nfl,2026-11-08T18:00:00Z,New York Giants,Philadelphia Eagles,h2h,BetRivers,New York Giants,-143,2026-11-01T23:44:55+00:00
+20261108-NYG-PE,americanfootball_nfl,2026-11-08T18:00:00Z,New York Giants,Philadelphia Eagles,h2h,BetRivers,Philadelphia Eagles,118,2026-11-01T23:44:55+00:00
+20261108-HT-LAC,americanfootball_nfl,2026-11-08T21:05:00Z,Houston Texans,Los Angeles Chargers,h2h,DraftKings,Houston Texans,-185,2026-11-01T23:44:55+00:00
+20261108-HT-LAC,americanfootball_nfl,2026-11-08T21:05:00Z,Houston Texans,Los Angeles Chargers,h2h,DraftKings,Los Angeles Chargers,154,2026-11-01T23:44:55+00:00
+20261108-HT-LAC,americanfootball_nfl,2026-11-08T21:05:00Z,Houston Texans,Los Angeles Chargers,h2h,FanDuel,Houston Texans,-180,2026-11-01T23:44:55+00:00
+20261108-HT-LAC,americanfootball_nfl,2026-11-08T21:05:00Z,Houston Texans,Los Angeles Chargers,h2h,FanDuel,Los Angeles Chargers,152,2026-11-01T23:44:55+00:00
+20261108-HT-LAC,americanfootball_nfl,2026-11-08T21:05:00Z,Houston Texans,Los Angeles Chargers,h2h,BetRivers,Houston Texans,-177,2026-11-01T23:44:55+00:00
+20261108-HT-LAC,americanfootball_nfl,2026-11-08T21:05:00Z,Houston Texans,Los Angeles Chargers,h2h,BetRivers,Los Angeles Chargers,140,2026-11-01T23:44:55+00:00
+20261108-LVR-SF4,americanfootball_nfl,2026-11-08T21:05:00Z,Las Vegas Raiders,San Francisco 49ers,h2h,DraftKings,Las Vegas Raiders,370,2026-11-01T23:44:55+00:00
+20261108-LVR-SF4,americanfootball_nfl,2026-11-08T21:05:00Z,Las Vegas Raiders,San Francisco 49ers,h2h,DraftKings,San Francisco 49ers,-485,2026-11-01T23:44:55+00:00
+20261108-LVR-SF4,americanfootball_nfl,2026-11-08T21:05:00Z,Las Vegas Raiders,San Francisco 49ers,h2h,FanDuel,Las Vegas Raiders,385,2026-11-01T23:44:55+00:00
+20261108-LVR-SF4,americanfootball_nfl,2026-11-08T21:05:00Z,Las Vegas Raiders,San Francisco 49ers,h2h,FanDuel,San Francisco 49ers,-500,2026-11-01T23:44:55+00:00
+20261108-LVR-SF4,americanfootball_nfl,2026-11-08T21:05:00Z,Las Vegas Raiders,San Francisco 49ers,h2h,BetRivers,Las Vegas Raiders,405,2026-11-01T23:44:55+00:00
+20261108-LVR-SF4,americanfootball_nfl,2026-11-08T21:05:00Z,Las Vegas Raiders,San Francisco 49ers,h2h,BetRivers,San Francisco 49ers,-560,2026-11-01T23:44:55+00:00
+20261108-AC-SS,americanfootball_nfl,2026-11-08T21:25:00Z,Arizona Cardinals,Seattle Seahawks,h2h,DraftKings,Arizona Cardinals,525,2026-11-01T23:44:55+00:00
+20261108-AC-SS,americanfootball_nfl,2026-11-08T21:25:00Z,Arizona Cardinals,Seattle Seahawks,h2h,DraftKings,Seattle Seahawks,-750,2026-11-01T23:44:55+00:00
+20261108-AC-SS,americanfootball_nfl,2026-11-08T21:25:00Z,Arizona Cardinals,Seattle Seahawks,h2h,FanDuel,Arizona Cardinals,500,2026-11-01T23:44:55+00:00
+20261108-AC-SS,americanfootball_nfl,2026-11-08T21:25:00Z,Arizona Cardinals,Seattle Seahawks,h2h,FanDuel,Seattle Seahawks,-700,2026-11-01T23:44:55+00:00
+20261108-AC-SS,americanfootball_nfl,2026-11-08T21:25:00Z,Arizona Cardinals,Seattle Seahawks,h2h,BetRivers,Arizona Cardinals,525,2026-11-01T23:44:55+00:00
+20261108-AC-SS,americanfootball_nfl,2026-11-08T21:25:00Z,Arizona Cardinals,Seattle Seahawks,h2h,BetRivers,Seattle Seahawks,-770,2026-11-01T23:44:55+00:00
+20261108-GBP-NEP,americanfootball_nfl,2026-11-08T21:25:00Z,Green Bay Packers,New England Patriots,h2h,DraftKings,Green Bay Packers,114,2026-11-01T23:44:55+00:00
+20261108-GBP-NEP,americanfootball_nfl,2026-11-08T21:25:00Z,Green Bay Packers,New England Patriots,h2h,DraftKings,New England Patriots,-135,2026-11-01T23:44:55+00:00
+20261108-GBP-NEP,americanfootball_nfl,2026-11-08T21:25:00Z,Green Bay Packers,New England Patriots,h2h,FanDuel,Green Bay Packers,116,2026-11-01T23:44:55+00:00
+20261108-GBP-NEP,americanfootball_nfl,2026-11-08T21:25:00Z,Green Bay Packers,New England Patriots,h2h,FanDuel,New England Patriots,-136,2026-11-01T23:44:55+00:00
+20261108-GBP-NEP,americanfootball_nfl,2026-11-08T21:25:00Z,Green Bay Packers,New England Patriots,h2h,BetRivers,Green Bay Packers,120,2026-11-01T23:44:55+00:00
+20261108-GBP-NEP,americanfootball_nfl,2026-11-08T21:25:00Z,Green Bay Packers,New England Patriots,h2h,BetRivers,New England Patriots,-148,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,DraftKings,Chicago Bears,-265,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,DraftKings,Tampa Bay Buccaneers,215,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,FanDuel,Chicago Bears,-290,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,FanDuel,Tampa Bay Buccaneers,235,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,BetRivers,Chicago Bears,-305,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,BetRivers,Tampa Bay Buccaneers,240,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,MyBookie.ag,Chicago Bears,-265,2026-11-01T23:44:55+00:00
+20261109-TBB-CB,americanfootball_nfl,2026-11-09T01:20:00Z,Tampa Bay Buccaneers,Chicago Bears,h2h,MyBookie.ag,Tampa Bay Buccaneers,210,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,DraftKings,Buffalo Bills,-148,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,DraftKings,Minnesota Vikings,124,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,FanDuel,Buffalo Bills,-146,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,FanDuel,Minnesota Vikings,124,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,BetRivers,Buffalo Bills,-148,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,BetRivers,Minnesota Vikings,120,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,MyBookie.ag,Buffalo Bills,-150,2026-11-01T23:44:55+00:00
+20261110-BB-MV,americanfootball_nfl,2026-11-10T01:15:00Z,Buffalo Bills,Minnesota Vikings,h2h,MyBookie.ag,Minnesota Vikings,122,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,DraftKings,Brooklyn Nets,-230,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,DraftKings,Indiana Pacers,175,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,BetMGM,Brooklyn Nets,-210,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,BetMGM,Indiana Pacers,160,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,Bovada,Brooklyn Nets,-230,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,Bovada,Indiana Pacers,175,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,MyBookie.ag,Brooklyn Nets,-333,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,MyBookie.ag,Indiana Pacers,235,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,BetRivers,Brooklyn Nets,-275,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,BetRivers,Indiana Pacers,210,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,FanDuel,Brooklyn Nets,-194,2026-11-01T23:44:55+00:00
+20261101-BN-IP,basketball_nba,2026-11-01T22:10:50Z,Brooklyn Nets,Indiana Pacers,h2h,FanDuel,Indiana Pacers,150,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,FanDuel,Golden State Warriors,-134,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,FanDuel,Los Angeles Clippers,114,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,DraftKings,Golden State Warriors,-125,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,DraftKings,Los Angeles Clippers,105,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,MyBookie.ag,Golden State Warriors,-135,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,MyBookie.ag,Los Angeles Clippers,106,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetRivers,Golden State Warriors,-132,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetRivers,Los Angeles Clippers,110,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetOnline.ag,Golden State Warriors,-125,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetOnline.ag,Los Angeles Clippers,105,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,LowVig.ag,Golden State Warriors,-123,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,LowVig.ag,Los Angeles Clippers,107,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetMGM,Golden State Warriors,-125,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetMGM,Los Angeles Clippers,105,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,Bovada,Golden State Warriors,-125,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,Bovada,Los Angeles Clippers,105,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetUS,Golden State Warriors,-130,2026-11-01T23:44:55+00:00
+20261102-LAC-GSW,basketball_nba,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,h2h,BetUS,Los Angeles Clippers,110,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,DraftKings,Los Angeles Lakers,-155,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,DraftKings,Toronto Raptors,130,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,LowVig.ag,Los Angeles Lakers,-148,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,LowVig.ag,Toronto Raptors,131,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,Bovada,Los Angeles Lakers,-150,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,Bovada,Toronto Raptors,130,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetMGM,Los Angeles Lakers,-150,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetMGM,Toronto Raptors,125,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetOnline.ag,Los Angeles Lakers,-149,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetOnline.ag,Toronto Raptors,129,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,MyBookie.ag,Los Angeles Lakers,-156,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,MyBookie.ag,Toronto Raptors,122,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetUS,Los Angeles Lakers,-149,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetUS,Toronto Raptors,129,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,FanDuel,Los Angeles Lakers,-154,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,FanDuel,Toronto Raptors,130,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetRivers,Los Angeles Lakers,-152,2026-11-01T23:44:55+00:00
+20261102-TR-LAL,basketball_nba,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,h2h,BetRivers,Toronto Raptors,125,2026-11-01T23:44:55+00:00
+20261103-OCT-CC,basketball_nba,2026-11-03T00:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,h2h,FanDuel,Cleveland Cavaliers,-168,2026-11-01T23:44:55+00:00
+20261103-OCT-CC,basketball_nba,2026-11-03T00:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,h2h,FanDuel,Oklahoma City Thunder,142,2026-11-01T23:44:55+00:00
+20261103-OCT-CC,basketball_nba,2026-11-03T00:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,h2h,DraftKings,Cleveland Cavaliers,-185,2026-11-01T23:44:55+00:00
+20261103-OCT-CC,basketball_nba,2026-11-03T00:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,h2h,DraftKings,Oklahoma City Thunder,154,2026-11-01T23:44:55+00:00
+20261103-OCT-CC,basketball_nba,2026-11-03T00:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,h2h,BetRivers,Cleveland Cavaliers,-175,2026-11-01T23:44:55+00:00
+20261103-OCT-CC,basketball_nba,2026-11-03T00:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,h2h,BetRivers,Oklahoma City Thunder,143,2026-11-01T23:44:55+00:00
+20261103-BN-NYK,basketball_nba,2026-11-03T00:40:00Z,Brooklyn Nets,New York Knicks,h2h,DraftKings,Brooklyn Nets,575,2026-11-01T23:44:55+00:00
+20261103-BN-NYK,basketball_nba,2026-11-03T00:40:00Z,Brooklyn Nets,New York Knicks,h2h,DraftKings,New York Knicks,-850,2026-11-01T23:44:55+00:00
+20261103-DP-CH,basketball_nba,2026-11-03T00:40:00Z,Detroit Pistons,Charlotte Hornets,h2h,DraftKings,Charlotte Hornets,145,2026-11-01T23:44:55+00:00
+20261103-DP-CH,basketball_nba,2026-11-03T00:40:00Z,Detroit Pistons,Charlotte Hornets,h2h,DraftKings,Detroit Pistons,-175,2026-11-01T23:44:55+00:00
+20261103-DP-CH,basketball_nba,2026-11-03T00:40:00Z,Detroit Pistons,Charlotte Hornets,h2h,FanDuel,Charlotte Hornets,138,2026-11-01T23:44:55+00:00
+20261103-DP-CH,basketball_nba,2026-11-03T00:40:00Z,Detroit Pistons,Charlotte Hornets,h2h,FanDuel,Detroit Pistons,-164,2026-11-01T23:44:55+00:00
+20261103-DP-CH,basketball_nba,2026-11-03T00:40:00Z,Detroit Pistons,Charlotte Hornets,h2h,BetRivers,Charlotte Hornets,138,2026-11-01T23:44:55+00:00
+20261103-DP-CH,basketball_nba,2026-11-03T00:40:00Z,Detroit Pistons,Charlotte Hornets,h2h,BetRivers,Detroit Pistons,-175,2026-11-01T23:44:55+00:00
+20261103-CB-P7,basketball_nba,2026-11-03T00:40:00Z,Chicago Bulls,Philadelphia 76ers,h2h,DraftKings,Chicago Bulls,470,2026-11-01T23:44:55+00:00
+20261103-CB-P7,basketball_nba,2026-11-03T00:40:00Z,Chicago Bulls,Philadelphia 76ers,h2h,DraftKings,Philadelphia 76ers,-650,2026-11-01T23:44:55+00:00
+20261103-CB-P7,basketball_nba,2026-11-03T00:40:00Z,Chicago Bulls,Philadelphia 76ers,h2h,FanDuel,Chicago Bulls,440,2026-11-01T23:44:55+00:00
+20261103-CB-P7,basketball_nba,2026-11-03T00:40:00Z,Chicago Bulls,Philadelphia 76ers,h2h,FanDuel,Philadelphia 76ers,-590,2026-11-01T23:44:55+00:00
+20261103-WW-OM,basketball_nba,2026-11-03T00:40:00Z,Washington Wizards,Orlando Magic,h2h,DraftKings,Orlando Magic,-120,2026-11-01T23:44:55+00:00
+20261103-WW-OM,basketball_nba,2026-11-03T00:40:00Z,Washington Wizards,Orlando Magic,h2h,DraftKings,Washington Wizards,100,2026-11-01T23:44:55+00:00
+20261103-WW-OM,basketball_nba,2026-11-03T00:40:00Z,Washington Wizards,Orlando Magic,h2h,BetRivers,Orlando Magic,-122,2026-11-01T23:44:55+00:00
+20261103-WW-OM,basketball_nba,2026-11-03T00:40:00Z,Washington Wizards,Orlando Magic,h2h,BetRivers,Washington Wizards,100,2026-11-01T23:44:55+00:00
+20261103-NOP-MG,basketball_nba,2026-11-03T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,h2h,DraftKings,Memphis Grizzlies,-250,2026-11-01T23:44:55+00:00
+20261103-NOP-MG,basketball_nba,2026-11-03T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,h2h,DraftKings,New Orleans Pelicans,205,2026-11-01T23:44:55+00:00
+20261103-NOP-MG,basketball_nba,2026-11-03T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,h2h,FanDuel,Memphis Grizzlies,-215,2026-11-01T23:44:55+00:00
+20261103-NOP-MG,basketball_nba,2026-11-03T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,h2h,FanDuel,New Orleans Pelicans,180,2026-11-01T23:44:55+00:00
+20261103-MB-MT,basketball_nba,2026-11-03T01:10:00Z,Milwaukee Bucks,Minnesota Timberwolves,h2h,DraftKings,Milwaukee Bucks,295,2026-11-01T23:44:55+00:00
+20261103-MB-MT,basketball_nba,2026-11-03T01:10:00Z,Milwaukee Bucks,Minnesota Timberwolves,h2h,DraftKings,Minnesota Timberwolves,-375,2026-11-01T23:44:55+00:00
+20261103-UJ-SAS,basketball_nba,2026-11-03T01:40:00Z,Utah Jazz,San Antonio Spurs,h2h,DraftKings,San Antonio Spurs,-800,2026-11-01T23:44:55+00:00
+20261103-UJ-SAS,basketball_nba,2026-11-03T01:40:00Z,Utah Jazz,San Antonio Spurs,h2h,DraftKings,Utah Jazz,550,2026-11-01T23:44:55+00:00
+20261103-PTB-DN,basketball_nba,2026-11-03T02:10:00Z,Portland Trail Blazers,Denver Nuggets,h2h,DraftKings,Denver Nuggets,-162,2026-11-01T23:44:55+00:00
+20261103-PTB-DN,basketball_nba,2026-11-03T02:10:00Z,Portland Trail Blazers,Denver Nuggets,h2h,DraftKings,Portland Trail Blazers,136,2026-11-01T23:44:55+00:00
+20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,BetRivers,New York Knicks,-110,2026-11-01T23:44:55+00:00
+20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,BetRivers,San Antonio Spurs,-110,2026-11-01T23:44:55+00:00
+20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,DraftKings,New York Knicks,-105,2026-11-01T23:44:55+00:00
+20261225-SAS-NYK,basketball_nba,2026-12-25T17:10:00Z,San Antonio Spurs,New York Knicks,h2h,DraftKings,San Antonio Spurs,-115,2026-11-01T23:44:55+00:00
+20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,BetRivers,Boston Celtics,-190,2026-11-01T23:44:55+00:00
+20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,BetRivers,Miami Heat,155,2026-11-01T23:44:55+00:00
+20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,DraftKings,Boston Celtics,-218,2026-11-01T23:44:55+00:00
+20261225-MH-BC,basketball_nba,2026-12-25T19:40:00Z,Miami Heat,Boston Celtics,h2h,DraftKings,Miami Heat,180,2026-11-01T23:44:55+00:00
+20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,BetRivers,Los Angeles Lakers,-115,2026-11-01T23:44:55+00:00
+20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,BetRivers,Philadelphia 76ers,-105,2026-11-01T23:44:55+00:00
+20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,DraftKings,Los Angeles Lakers,-115,2026-11-01T23:44:55+00:00
+20261225-P7-LAL,basketball_nba,2026-12-25T22:10:00Z,Philadelphia 76ers,Los Angeles Lakers,h2h,DraftKings,Philadelphia 76ers,-105,2026-11-01T23:44:55+00:00
+20261226-OCT-MT,basketball_nba,2026-12-26T01:10:00Z,Oklahoma City Thunder,Minnesota Timberwolves,h2h,DraftKings,Minnesota Timberwolves,130,2026-11-01T23:44:55+00:00
+20261226-OCT-MT,basketball_nba,2026-12-26T01:10:00Z,Oklahoma City Thunder,Minnesota Timberwolves,h2h,DraftKings,Oklahoma City Thunder,-155,2026-11-01T23:44:55+00:00
+20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,BetRivers,Denver Nuggets,-127,2026-11-01T23:44:55+00:00
+20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,BetRivers,Golden State Warriors,105,2026-11-01T23:44:55+00:00
+20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,DraftKings,Denver Nuggets,-135,2026-11-01T23:44:55+00:00
+20261226-DN-GSW,basketball_nba,2026-12-26T03:40:00Z,Denver Nuggets,Golden State Warriors,h2h,DraftKings,Golden State Warriors,114,2026-11-01T23:44:55+00:00
